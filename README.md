@@ -1,4 +1,5 @@
 vim
 ===
+my vim profile
 
-vim.me
+includes some plugins such as pathogen,powerline,jsbeautify,command-t,tagbar,vim-session
